@@ -379,6 +379,7 @@ color abc_tint_spinner
 color abc_tint_switch_track
 color accent_material_dark
 color accent_material_light
+color activeDots
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -405,6 +406,7 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color inactivitDots
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -653,6 +655,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable active_dot
 drawable adicionar
 drawable background_login
 drawable background_roxo
@@ -660,6 +663,7 @@ drawable btn_login
 drawable dinheiro
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable inactive_dots
 drawable itens_menu
 drawable logo
 drawable logo_hig
@@ -765,6 +769,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id container_dots
 id container_fragment
 id container_fragment_system
 id content

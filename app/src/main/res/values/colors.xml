@@ -7,4 +7,6 @@
     <color name="cinza_top">#f5f5f5</color>
     <color name="textos_cinza">#848484</color>
     <color name="preto_fosco">#2f3337</color>
+    <color name="inactivitDots">#9645ac</color>
+    <color name="activeDots">#FFFFFF</color>
 </resources>

@@ -31,7 +31,21 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/nu_logo"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0" >
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/container_dots"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="112dp"
+        app:layout_constraintStart_toStartOf="@id/container_fragment_system"
+        app:layout_constraintEnd_toEndOf="@id/container_fragment_system"
+        app:layout_constraintTop_toBottomOf="@id/container_fragment_system"
+        app:layout_constraintBottom_toTopOf="@id/itens_list_System"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/itens_list_System"
