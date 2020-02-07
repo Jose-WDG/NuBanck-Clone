@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NubanckClone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="faca_seu_login">Faça seu Login</string>
+    <string name="cpf">CPF</string>
+    <string name="esqueci_minha_senha"><![CDATA[Esqueci minha senha >]]></string>
+    <string name="description_nu">Logo da empresa nu Banck</string>
+    <string name="decricao_conta">Saia da poupança e <b>faça seu <br />dinheiro render</b> de forma justa<br /> e transparente.</string>
+</resources>
