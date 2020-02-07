@@ -1,23 +1,29 @@
 package com.brq.nubanckclone.adapter
 
+import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.BaseAdapter
+import androidx.recyclerview.widget.RecyclerView
+import com.brq.nubanckclone.R
 
-class ItensMenuAdapter: BaseAdapter(){
-    override fun getView(p0: Int, p1: View?, p2: ViewGroup?): View {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+class ItensMenuAdapter : RecyclerView.Adapter<ItensMenuAdapter.ItensMenuViewHolder>() {
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItensMenuViewHolder {
+        val inflate = LayoutInflater
+            .from(parent.context)
+            .inflate(R.layout.menu_item, parent, false)
+        return ItensMenuViewHolder(inflate)
     }
 
-    override fun getItem(p0: Int): Any {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    override fun getItemCount(): Int {
+       return 3
     }
 
-    override fun getItemId(p0: Int): Long {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    override fun onBindViewHolder(holder: ItensMenuViewHolder, position: Int) {
+
     }
 
-    override fun getCount(): Int {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    class ItensMenuViewHolder(view: View) : RecyclerView.ViewHolder(view) {
+
     }
 }

@@ -4,58 +4,71 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SystemAppActivity"
-    android:background="@color/roxinho">
+    android:background="@color/roxinho"
+    tools:context=".SystemAppActivity">
 
-    <ImageView
-        android:id="@+id/nu_logo"
-        android:layout_width="wrap_content"
-        android:maxWidth="100dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:contentDescription="@string/description_nu"
-        android:src="@drawable/nubank_logo2x"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
 
-    <FrameLayout
-        android:id="@+id/container_fragment_system"
+    <ScrollView
+        android:id="@+id/scrollView2"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="32dp"
-        android:layout_marginEnd="32dp"
+        android:layout_height="match_parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/nu_logo"
-        app:layout_constraintVertical_bias="0.0" >
+        app:layout_constraintTop_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.0">
 
-    </FrameLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
-    <LinearLayout
-        android:id="@+id/container_dots"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        tools:layout_editor_absoluteX="32dp"
-        tools:layout_editor_absoluteY="112dp"
-        app:layout_constraintStart_toStartOf="@id/container_fragment_system"
-        app:layout_constraintEnd_toEndOf="@id/container_fragment_system"
-        app:layout_constraintTop_toBottomOf="@id/container_fragment_system"
-        app:layout_constraintBottom_toTopOf="@id/itens_list_System"/>
+            <ImageView
+                android:id="@+id/nu_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/description_nu"
+                android:maxWidth="30dp"
+                android:layout_marginTop="24dp"
+                android:src="@drawable/nubank_logo2x"
+                tools:layout_editor_absoluteX="164dp"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"/>
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/itens_list_System"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@drawable/background_login"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.6"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/container_fragment_system"
-        app:layout_constraintVertical_bias="1.0" />
+            <FrameLayout
+                android:id="@+id/container_fragment_system"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/nu_logo"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="80dp" />
+
+            <LinearLayout
+                android:id="@+id/container_dots"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal"
+                app:layout_constraintEnd_toEndOf="@id/container_fragment_system"
+                app:layout_constraintStart_toStartOf="@id/container_fragment_system"
+                app:layout_constraintTop_toBottomOf="@id/container_fragment_system" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/itens_list_System"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/container_dots"
+                app:layout_constraintVertical_bias="1.0" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

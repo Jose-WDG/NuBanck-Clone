@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     tools:context=".fragment.ItensFragment"
-    android:background="@drawable/background_login">
+    android:background="@drawable/background_login"
+    >
 
     <ImageView
         android:id="@+id/img_conta"

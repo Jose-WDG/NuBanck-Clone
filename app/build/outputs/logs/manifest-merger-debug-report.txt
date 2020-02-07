@@ -1,14 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\a3dd40076fb1aa4032dab9e86677200c\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\66e2865556a6c9354acff342343505fa\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\d9fd0f9d2413d1485b690ac340fd0bdd\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\158a0cf1cb206b58a5f81ed4124aede8\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\df513ca6a5f5e92cbcbb6ae83255d618\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\dc6503a1ebeb5d78f6259a963f885b72\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\cc49b32293b6ca9e924e3f5ec7f94c93\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -35,25 +36,25 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\jrneto\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\e4a3d379d1bcbe285b89607fcaeb9e70\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\87ae084eb3df2dbaca54f0e05c8f6900\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\140e197d83343f156dc84b9dfd575292\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.1.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:5-89
@@ -75,27 +76,27 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jr
 	android:theme
 		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.brq.nubanckclone.SystemAppActivity
-ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:12:9-105
-	android:theme
-		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:12:53-103
-	android:name
-		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:12:19-52
-activity#com.brq.nubanckclone.MainActivity
-ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:13:9-15:66
 	android:theme
 		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:15:13-63
 	android:name
-		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:14:13-41
+		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:14:13-46
+activity#com.brq.nubanckclone.MainActivity
+ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:theme
+		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:19:13-63
+	android:name
+		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
@@ -110,6 +111,8 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jrneto\.gradle\ca
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\d9fd0f9d2413d1485b690ac340fd0bdd\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\158a0cf1cb206b58a5f81ed4124aede8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\158a0cf1cb206b58a5f81ed4124aede8\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\df513ca6a5f5e92cbcbb6ae83255d618\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\df513ca6a5f5e92cbcbb6ae83255d618\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\dc6503a1ebeb5d78f6259a963f885b72\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
