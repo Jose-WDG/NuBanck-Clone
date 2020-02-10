@@ -6,49 +6,49 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
+8-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml
+9-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:5:5-26:19
+11-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:5:5-26:19
 12        android:allowBackup="true"
-12-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:6:9-35
+12-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.1.0] C:\Users\jrneto\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.1.0] C:\Users\Neto\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:7:9-43
+15-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:8:9-41
+16-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:9:9-54
+17-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:10:9-35
+18-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:11:9-40
+20-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:11:9-40
 21        <activity
-21-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:13:9-15:66
+21-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:13:9-15:66
 22            android:name="com.brq.nubanckclone.SystemAppActivity"
-22-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:14:13-46
+22-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:14:13-46
 23            android:theme="@style/Theme.AppCompat.NoActionBar" />
-23-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:15:13-63
+23-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:15:13-63
 24        <activity
-24-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:17:9-25:20
+24-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:17:9-25:20
 25            android:name="com.brq.nubanckclone.MainActivity"
-25-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:18:13-41
+25-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:18:13-41
 26            android:theme="@style/Theme.AppCompat.NoActionBar" >
-26-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:19:13-63
+26-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:19:13-63
 27            <intent-filter>
-27-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:20:13-24:29
+27-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:20:13-24:29
 28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:21:17-69
-28-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:21:25-66
+28-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:21:17-69
+28-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:21:25-66
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:23:17-77
-30-->C:\Users\jrneto\AndroidStudioProjects\NuBanck-Clone\app\src\main\AndroidManifest.xml:23:27-74
+30-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:23:17-77
+30-->D:\Projetos\NuBanck-Clone\app\src\main\AndroidManifest.xml:23:27-74
 31            </intent-filter>
 32        </activity>
 33    </application>

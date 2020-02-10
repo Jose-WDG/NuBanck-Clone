@@ -560,6 +560,7 @@ dimen hint_alpha_material_dark
 dimen hint_alpha_material_light
 dimen hint_pressed_alpha_material_dark
 dimen hint_pressed_alpha_material_light
+dimen item_menu_padding
 dimen item_touch_helper_max_drag_scroll_per_frame
 dimen item_touch_helper_swipe_escape_max_velocity
 dimen item_touch_helper_swipe_escape_velocity
@@ -677,10 +678,16 @@ drawable abc_vector_test
 drawable active_dot
 drawable adicionar
 drawable adicionar_med
+drawable app
+drawable avatar
 drawable background_login
 drawable background_roxo
 drawable btn_login
+drawable btn_sair
+drawable creditcard
 drawable dinheiro
+drawable downarrow
+drawable downarrowx1
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable inactive_dots
@@ -705,8 +712,13 @@ drawable nubank_logo
 drawable nubank_logo2x
 drawable nubank_logo3x
 drawable nubank_logo_
+drawable qrcode
+drawable question
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable uparrow
+drawable uparrowx1
+drawable user
 font helvetica_neue
 font helvetica_neue_light
 font helvetica_neue_medium
@@ -778,6 +790,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_logout
 id buttonPanel
 id button_view
 id cancel_action
@@ -803,6 +816,7 @@ id dialog_button
 id dimensions
 id direct
 id disableHome
+id down_arrow_icon
 id edit_query
 id end
 id end_padder
@@ -828,6 +842,10 @@ id input_cpf
 id input_senha
 id invisible
 id italic
+id item_menu_1
+id item_menu_2
+id item_menu_3
+id item_menu_4
 id item_touch_helper_previous_elevation
 id itens_list_System
 id left
@@ -841,6 +859,7 @@ id menu_item_container
 id message
 id middle
 id multiply
+id nav_menu
 id never
 id none
 id normal
