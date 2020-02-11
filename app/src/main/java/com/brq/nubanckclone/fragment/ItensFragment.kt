@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 
 import com.brq.nubanckclone.R
+import kotlinx.android.synthetic.main.activity_system_app.view.*
 
 /**
  * A simple [Fragment] subclass.

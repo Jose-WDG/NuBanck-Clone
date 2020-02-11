@@ -564,6 +564,7 @@ dimen item_menu_padding
 dimen item_touch_helper_max_drag_scroll_per_frame
 dimen item_touch_helper_swipe_escape_max_velocity
 dimen item_touch_helper_swipe_escape_velocity
+dimen margin_geral
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -792,7 +793,6 @@ id blocking
 id bottom
 id btn_logout
 id buttonPanel
-id button_view
 id cancel_action
 id center
 id center_horizontal
@@ -837,6 +837,7 @@ id icon_group
 id ifRoom
 id image
 id img_conta
+id img_menu
 id info
 id input_cpf
 id input_senha
@@ -854,7 +855,6 @@ id line3
 id listMode
 id list_item
 id media_actions
-id menu_item_category
 id menu_item_container
 id message
 id middle
@@ -881,7 +881,6 @@ id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
-id scrollView2
 id search_badge
 id search_bar
 id search_button
@@ -932,6 +931,7 @@ id topPanel
 id txt_descricao_conta
 id txt_esqueci_senha
 id txt_faca_login
+id txt_menu_item
 id txt_titolo_conta
 id uniform
 id up
